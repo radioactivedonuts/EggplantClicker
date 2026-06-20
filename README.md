@@ -1,7 +1,6 @@
 # 🍆 EggplantClicker
 
 A simple HTML-only clicker game where you click the eggplant to earn Eggplants and buy upgrades.
-
 Any requests please email radioactivedonuts78@gmail.com
 
 ## Features
